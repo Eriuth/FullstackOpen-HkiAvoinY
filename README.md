@@ -1,5 +1,5 @@
 # FullstackOpen-HkiAvoinY
-JS opettelu https://fullstackopen.com/ avulla. (Oma -> junnun villasukat alalle eli riittävän osaamistason kasaamista harrastaen, jotta voi hakea koulutuksen kautta töihin tai junnuksi.)
+JS opettelu https://fullstackopen.com/ avulla. (Oma -> **junnun villasukat** alalle eli riittävän osaamistason kasaamista harrastaen, jotta voi hakea koulutuksen kautta töihin tai junnuksi.)
 
 # Vinkkejä 
  - https://fullstackopen.com/
