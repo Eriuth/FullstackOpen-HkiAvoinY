@@ -22,6 +22,8 @@ JS opettelu https://fullstackopen.com/ avulla. (Oma -> Omaksi huviksi tai jopa o
 - [ ] osa 12, containers, konteista
 - [ ] Osa 13, **relaatiotietokantojen** käyttö
 
+- [ ] Lisää tarkistaja / collabarator kurssin vetäjä ja aloita palauttelu
+
 ## Tehty
 - [x] Osa 1, HTML, web-sovellusten perusteita, historiaa, HTML, SPA, JS palvelimessa
 <br> Huomio, että HTML-harjoitukset ovat tässä vaiheessa niin rumia, että pysyvät <br>
