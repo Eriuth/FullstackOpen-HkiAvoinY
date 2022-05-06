@@ -8,7 +8,7 @@ JS opettelu https://fullstackopen.com/ avulla. (Oma -> Omaksi huviksi tai jopa o
  - kyseessä on siis vastauksia avoimeen kurssiin
 
 ## Seuraavaksi
-- [ ] Osa 1, **Reactin** perusteet
+- [x] Osa 1, **Reactin** perusteet
 - [ ] Osa 2, Palvelimen kanssa kommunikointia
 - [ ] Osa 3, **NodeJS** (palvelimen ohjelmointia NodeJS:n kirjastolla)
 - [ ] Osa 4, testausta (express-sovelluksen testaus & käyttäjähallintaa)
@@ -28,3 +28,8 @@ JS opettelu https://fullstackopen.com/ avulla. (Oma -> Omaksi huviksi tai jopa o
 - [x] Osa 1, HTML, web-sovellusten perusteita, historiaa, HTML, SPA, JS palvelimessa
 <br> Huomio, että HTML-harjoitukset ovat tässä vaiheessa niin rumia, että pysyvät <br>
 henkilökohtaisella koneella (ellei kurssin tarkistusta varten kaivata). <br> Toive on, että mahdollisesti tyylikkäämpien sivujen osaaminen syntyy kurssin aikana (niinkuin parempi ymmärrys kunnon webcrawleria vartenkin - versio 1.0 kun ei oikein yltänyt suorituskelpoisuudessaan mihinkään...).
+
+## Opittua
+
+- Kurssia varten on tullut kerrattua html, css, käyty Mimmit koodaa kautta Fraktion toimistolla tutustumassa reactiin (hands on koodausharjoitus nettipalvelimella)
+- ammattijargonia on mahdotonta opiskella yksin (ainakin hankalampaa kuin muilla aloilla?), kierroksi -> käy enemmän tapahtumissa (mm. itse käyttäisin returnaa, kun luennoitsija ohjaa renderöi - vaikka kone renderöi ja koodaaja käskyttää koodilla...)
