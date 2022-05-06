@@ -25,7 +25,7 @@ JS opettelu https://fullstackopen.com/ avulla. (Oma -> Omaksi huviksi tai jopa o
 - [ ] Lisää tarkistaja / collabarator kurssin vetäjä ja aloita palauttelu
 
 ## Tehty
-- [x] Osa 1, HTML, web-sovellusten perusteita, historiaa, HTML, SPA, JS palvelimessa
+- [x] Osa 0, HTML, web-sovellusten perusteita, historiaa, HTML, SPA, JS palvelimessa
 <br> Huomio, että HTML-harjoitukset ovat tässä vaiheessa niin rumia, että pysyvät <br>
 henkilökohtaisella koneella (ellei kurssin tarkistusta varten kaivata). <br> Toive on, että mahdollisesti tyylikkäämpien sivujen osaaminen syntyy kurssin aikana (niinkuin parempi ymmärrys kunnon webcrawleria vartenkin - versio 1.0 kun ei oikein yltänyt suorituskelpoisuudessaan mihinkään...).
 
