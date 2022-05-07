@@ -2,9 +2,11 @@
 import { Header } from "./components/Header.js";
 import { Content } from "./components/Content.js";
 
-//harjoituksen vuoksi osa moduuleista fileinä sourcen alla ja osa tässä
-//logiikka heikko, ns. yhteenlasku on fiksua laittaa tähän =)
-//Mutta eihän aloittelijalta voi vielä olettaa kovaa tasoa??? 
+//Yritetty heti alusta siistiä ja itselle ymmärrettävämpää koodia
+//harjoituksen vuoksi siis osa moduuleista on siirretty fileinä sourcen alle ja osa tässä
+//logiikka heikko eli mutu -> ns. Total eli yhteenlasku on fiksua laittaa tähän -> tuskin tulee lisä monimutkaisuutta
+//osa 1 etenee ohjeiden mukaan (ja todennäköisesti fiksummin sillä lopullinen arkkitehtuuri ei ole tiedossa)
+
 
 const Total = ({lista}) => {
   return(

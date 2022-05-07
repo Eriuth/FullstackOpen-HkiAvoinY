@@ -2,18 +2,7 @@
  Kopioi annetut ensin (ohje)*/
 /*Kolme uutta komponenttia yhden sijaan: Header, Content, Total */
 
-/* kysyttyä tutulta vinkkejä, opittua:
-kun käsketään renderöidä, vaikka kone renderöi on yleistä sanoa että koodaaja renderöi... (miksi?)
-return siis "renderöi" -> returnaa palan templatea (selkeämpää kieltä minusta) -> on yleisestä siis sanoa tässä renderöi, ei returnaa (vaikka renderöinti on sivun latausvaihe???!!!! luulin, että kirjoitan koodia, en renderöi... kone hoitaa.... jargon?)
-Paras suomennos (valittamalla paljon) saatu -> eli käskytätä mitä renderöidään -> renderöit
-<br></br> sijaan voi tägäillä kuin parttiakin tai muistele image
-sano "muuttuja" älä keksi "jotain" määritelmiä
-const Header = (props) => jne luetaan Headersiin sijoitetaan funktio ominaisuuksilla props/ joka ottaa propsit sisään ja sylkee (tässä" stringiä ulos*/
 
-//saatu vinkki -> toinen tapa kirjoittaa eli "ekvivalentti nimetty funktio"
-//function Header(props) {}
-
-//vinkattu, seuraavaa kutsutaan lambda-funktioksi
 const Header = (props) => {
   return(
     <div>

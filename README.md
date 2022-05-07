@@ -33,3 +33,4 @@ henkilökohtaisella koneella (ellei kurssin tarkistusta varten kaivata). <br> To
 
 - Kurssia varten on tullut kerrattua html, css, käyty Mimmit koodaa kautta Fraktion toimistolla tutustumassa reactiin (hands on koodausharjoitus nettipalvelimella)
 - ammattijargonia on mahdotonta opiskella yksin (ainakin hankalampaa kuin muilla aloilla?), kierroksi -> käy enemmän tapahtumissa (mm. itse käyttäisin returnaa, kun luennoitsija ohjaa renderöi - vaikka kone renderöi ja koodaaja käskyttää koodilla...)
+- Olisi kiva nähdä visuaalisesti arkkitehtuuri ennen kuin lähtee vain toteuttamaan. Oma alkuveikkaus siitä, miten tulee syntymään siistiä koodia voi johtaa pahasti harhateille. (Tutkimusmatka esimerkiksi Osa 1 ja Part1varjo välillä on tätä siistin koodin mietintää ilman tietoa toivotusta lopputuloksesta.)
