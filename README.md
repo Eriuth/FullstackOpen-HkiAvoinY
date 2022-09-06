@@ -8,7 +8,7 @@ JS opettelu https://fullstackopen.com/ avulla. (Oma -> Omaksi huviksi tai jopa o
  - kyseessä on siis vastauksia avoimeen kurssiin
 
 ## Seuraavaksi
-- [x] Osa 1, **Reactin** perusteet
+- [x] Osa 1, **Reactin** perusteet (tehty 1a, 1b, srv 1c)
 - [ ] Osa 2, Palvelimen kanssa kommunikointia
 - [ ] Osa 3, **NodeJS** (palvelimen ohjelmointia NodeJS:n kirjastolla)
 - [ ] Osa 4, testausta (express-sovelluksen testaus & käyttäjähallintaa)
